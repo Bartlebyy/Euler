@@ -7,6 +7,9 @@ My goal for each problem is to quickly and cleanly write up some code that will 
 I have currently completed 4 puzzles.
 
 001- Multiples of 3 and 5 (0.002615)
+
 002- Even Fibonacci Numbers (0.000035s)
+
 003- Largest Prime Factor (0.0004s)
+
 027- Quadratic Primes (20.675529s)
