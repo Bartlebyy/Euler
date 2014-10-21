@@ -1,3 +1,4 @@
+beginning = Time.now
 current_fibonacci = 2
 past_fibonacci = 1
 sum_of_even_fibonacci = 0
@@ -11,3 +12,4 @@ until current_fibonacci > 4000000 do
 end
 
 puts sum_of_even_fibonacci
+puts "Time elapsed #{Time.now - beginning} seconds."

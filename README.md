@@ -2,6 +2,11 @@ This a folder where I will put my responses for individual puzzles from projecte
 
 This is meant to be a simple everyday practice that will help keep my ruby skills in check.
 
-My goal for each problem is to quickly and cleanly write up some code that will find the solution to the puzzle in under 5 seconds.
+My goal for each problem is to quickly and cleanly write up some code that will find the solution to the puzzle in under a minute.
 
-I have currently completed 2 puzzles.
+I have currently completed 4 puzzles.
+
+001- Multiples of 3 and 5 (0.002615)
+002- Even Fibonacci Numbers (0.000035s)
+003- Largest Prime Factor (0.0004s)
+027- Quadratic Primes (20.675529s)
