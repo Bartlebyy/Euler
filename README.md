@@ -10,7 +10,7 @@ I have currently completed 4 puzzles.
 
 002- Even Fibonacci Numbers (0.000035s)
 
-003- Largest Prime Factor (0.0004s)
+003- Largest Prime Factor (0.000659s)
 
 004- Largest Palindrome Product (0.42508s)
 
