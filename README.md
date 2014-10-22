@@ -14,4 +14,6 @@ I have currently completed 4 puzzles.
 
 004- Largest Palindrome Product (0.42508s)
 
+012- Highly Divisible Triangular Number (1.552231s)
+
 027- Quadratic Primes (20.675529s)
