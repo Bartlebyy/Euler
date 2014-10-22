@@ -4,7 +4,7 @@ This is meant to be a simple everyday practice that will help keep my ruby skill
 
 My goal for each problem is to quickly and cleanly write up some code that will find the solution to the puzzle in under a minute.
 
-I have currently completed 4 puzzles.
+I have currently completed 6 puzzles.
 
 001- Multiples of 3 and 5 (0.002615s)
 
