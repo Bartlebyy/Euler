@@ -4,7 +4,7 @@ This is meant to be a simple everyday practice that will help keep my ruby skill
 
 My goal for each problem is to quickly and cleanly write up some code that will find the solution to the puzzle in under a minute.
 
-I have currently completed 7 puzzles.
+I have currently completed 8 puzzles.
 
 001- Multiples of 3 and 5 (0.002615s)
 
@@ -17,5 +17,7 @@ I have currently completed 7 puzzles.
 005- Smallest Multiple (0.000085s)
 
 012- Highly Divisible Triangular Number (1.00147s)
+
+015- Lattice paths (0.000037s)
 
 027- Quadratic Primes (20.675529s)
