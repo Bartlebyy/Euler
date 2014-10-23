@@ -6,17 +6,18 @@
 beginning = Time.now
 @largest_palindrome = 0
 
-def palindrome?(number)
-  number == number.to_s.reverse.to_i
+def palindrome?(str)
+  str == str.reverse
 end
 
 def record_palindrome(number)
-  @largest_palindrome = number if number > @largest_palindrome
+  @largest_palindrome = [number, @largest_palindrome].max
 end
 
 (100..999).each do |a|
   (100..999).each do |b|
-    record_palindrome(a*b) if palindrome?(a*b)
+    product = a*b
+    record_palindrome(product) if palindrome?(product.to_s)
   end
 end
 

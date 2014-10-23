@@ -22,8 +22,8 @@ beginning = Time.now
 
 def num_of_divisors(n)
     primes = n.prime_division
-    num_of_prime_factors = primes.any? ? primes.map { |prime, count| count + 1 } : [1]
-    num_of_prime_factors.inject(:*)
+    arr_of_prime_factors = primes.any? ? primes.map { |prime, count| count + 1 } : [1]
+    arr_of_prime_factors.inject(:*)
 end
 
 def create_triangle_num(n)
@@ -40,10 +40,10 @@ current_number = 1000
 current_triangle = create_triangle_num(current_number)
 
 until max_divisors > 500
-  max_divisors = num_of_divisors(current_triangle) if num_of_divisors(current_triangle) > max_divisors
-  puts "Current triangle number is #{current_triangle}, and the max divisor is #{max_divisors}"
+  max_divisors = [num_of_divisors(current_triangle), max_divisors].max
   current_number += 1
   current_triangle += current_number
 end
 
+puts "Current triangle number is #{current_triangle}, and the max divisor is #{max_divisors}"
 puts "Time elapsed #{Time.now - beginning} seconds."

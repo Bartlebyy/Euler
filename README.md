@@ -12,8 +12,8 @@ I have currently completed 6 puzzles.
 
 003- Largest Prime Factor (0.000659s)
 
-004- Largest Palindrome Product (0.42508s)
+004- Largest Palindrome Product (0.399984s)
 
-012- Highly Divisible Triangular Number (1.552231s)
+012- Highly Divisible Triangular Number (1.00147s)
 
 027- Quadratic Primes (20.675529s)
