@@ -4,7 +4,7 @@ This is meant to be a simple everyday practice that will help keep my ruby skill
 
 My goal for each problem is to quickly and cleanly write up some code that will find the solution to the puzzle in under a minute.
 
-I have currently completed 13 puzzles.
+I have currently completed 14 puzzles.
 
 001- Multiples of 3 and 5 (0.002615s)
 
@@ -21,6 +21,8 @@ I have currently completed 13 puzzles.
 007- 10001st Prime (0.036454s)
 
 008- Largest Product in a Series (0.003223s)
+
+009- Special Pythagorean Triplet (0.150926s)
 
 012- Highly Divisible Triangular Number (1.00147s)
 
