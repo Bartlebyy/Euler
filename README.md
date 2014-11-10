@@ -22,7 +22,7 @@ I have currently completed 14 puzzles.
 
 008- Largest Product in a Series (0.003223s)
 
-009- Special Pythagorean Triplet (0.150926s)
+009- Special Pythagorean Triplet (0.13038s)
 
 012- Highly Divisible Triangular Number (1.00147s)
 
